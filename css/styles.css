@@ -41,3 +41,21 @@ header {
     margin-left: 146px;
     font-size: 16px;
 }
+
+#search-icon, #keyboard-icon, #mic-icon {
+    position: absolute;
+    top: 14px;
+    font-size: 18px;
+}
+
+#search-icon {
+    right: 18px;
+}
+
+#keyboard-icon {
+    right: 53px;
+}
+
+#mic-icon {
+    right: 88px;
+}
